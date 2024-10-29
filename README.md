@@ -1,6 +1,6 @@
-# Coffee Shop App
+# Yewale-Coffee
 
-This project is a coffee shop app built with React and Vite. It features a landing page with information about the coffee shop and its offerings.
+This project is a Yewale-Coffee built with React and Vite. It features a landing page with information about the coffee shop and its offerings.
 
 ## Features
 
